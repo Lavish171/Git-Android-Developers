@@ -8,5 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("This is contained in my second commit")
+        
+       // HUrray this is second line 
+       println("THis is for learning merge")
+       
     }
 }
